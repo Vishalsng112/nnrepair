@@ -1,0 +1,1122 @@
+sat
+(model 
+  (define-fun sym506_565 () Real
+    0.0)
+  (define-fun sym347_1598 () Real
+    0.0)
+  (define-fun sym6_1529 () Real
+    0.0)
+  (define-fun sym415_234 () Real
+    0.0)
+  (define-fun sym506_1223 () Real
+    0.0)
+  (define-fun sym506_1566 () Real
+    0.0)
+  (define-fun sym511_652 () Real
+    0.0)
+  (define-fun sym6_1581 () Real
+    0.0)
+  (define-fun sym511_125 () Real
+    0.0)
+  (define-fun sym306_102 () Real
+    0.0)
+  (define-fun sym6_61 () Real
+    0.0)
+  (define-fun sym306_1597 () Real
+    0.0)
+  (define-fun sym410_746 () Real
+    0.0)
+  (define-fun sym174_652 () Real
+    0.0)
+  (define-fun sym496_938 () Real
+    0.0)
+  (define-fun sym511_1549 () Real
+    0.0)
+  (define-fun sym506_1549 () Real
+    0.0)
+  (define-fun sym410_1566 () Real
+    0.0)
+  (define-fun sym306_1581 () Real
+    0.0)
+  (define-fun sym511_46 () Real
+    0.0)
+  (define-fun sym79_1159 () Real
+    (- (/ 2915281340412971859275103327112268380968019609176399213596539689361085906694320387.0
+      10532440184378924986929870272344220760343144746250303877474954800000000000000000000.0)))
+  (define-fun sym415_1529 () Real
+    0.0)
+  (define-fun sym306_1568 () Real
+    0.0)
+  (define-fun sym174_742 () Real
+    0.0)
+  (define-fun sym6_1549 () Real
+    0.0)
+  (define-fun sym347_298 () Real
+    0.0)
+  (define-fun sym174_949 () Real
+    0.0)
+  (define-fun sym216_362 () Real
+    0.0)
+  (define-fun sym415_1581 () Real
+    0.0)
+  (define-fun sym79_366 () Real
+    1.0)
+  (define-fun sym415_227 () Real
+    0.0)
+  (define-fun sym216_603 () Real
+    0.0)
+  (define-fun sym174_1159 () Real
+    0.0)
+  (define-fun sym174_1580 () Real
+    0.0)
+  (define-fun sym410_1252 () Real
+    0.0)
+  (define-fun sym415_1472 () Real
+    0.0)
+  (define-fun sym506_1535 () Real
+    0.0)
+  (define-fun sym216_1248 () Real
+    (- 1.0))
+  (define-fun sym347_1536 () Real
+    (- 1.0))
+  (define-fun sym511_1275 () Real
+    0.0)
+  (define-fun sym79_716 () Real
+    1.0)
+  (define-fun sym79_1246 () Real
+    (/ 1471094733957163173675963115763947172520959879850472566619079287964133779646675419955608699049442651.0
+   1899878970706771444146928476919111874958500842140097518428297117755460264496047500000000000000000000.0))
+  (define-fun sym306_1251 () Real
+    0.0)
+  (define-fun sym415_1566 () Real
+    0.0)
+  (define-fun sym506_445 () Real
+    0.0)
+  (define-fun sym506_1252 () Real
+    0.0)
+  (define-fun sym174_1268 () Real
+    0.0)
+  (define-fun sym496_686 () Real
+    0.0)
+  (define-fun sym79_1544 () Real
+    (- 1.0))
+  (define-fun sym415_298 () Real
+    0.0)
+  (define-fun sym415_1235 () Real
+    0.0)
+  (define-fun sym410_1574 () Real
+    0.0)
+  (define-fun sym174_1194 () Real
+    0.0)
+  (define-fun sym415_686 () Real
+    0.0)
+  (define-fun sym506_629 () Real
+    0.0)
+  (define-fun sym496_1597 () Real
+    (- 1.0))
+  (define-fun sym347_1002 () Real
+    0.0)
+  (define-fun sym6_581 () Real
+    0.0)
+  (define-fun sym347_1252 () Real
+    0.0)
+  (define-fun sym506_1157 () Real
+    0.0)
+  (define-fun sym511_1514 () Real
+    0.0)
+  (define-fun sym415_483 () Real
+    0.0)
+  (define-fun sym506_1584 () Real
+    0.0)
+  (define-fun sym6_1513 () Real
+    0.0)
+  (define-fun sym306_366 () Real
+    0.0)
+  (define-fun sym79_125 () Real
+    1.0)
+  (define-fun sym415_652 () Real
+    0.0)
+  (define-fun sym306_745 () Real
+    0.0)
+  (define-fun sym306_1006 () Real
+    0.0)
+  (define-fun sym174_1598 () Real
+    0.0)
+  (define-fun sym415_1574 () Real
+    0.0)
+  (define-fun sym506_622 () Real
+    0.0)
+  (define-fun sym410_1268 () Real
+    0.0)
+  (define-fun sym6_1533 () Real
+    0.0)
+  (define-fun sym496_1461 () Real
+    (/ 50236263686884224678959183524594718627525747231841870847141439084364956054876686488613014655577731.0
+   167156713269796393475395270745005850074811698002738065288283696932872413056344400000000000000000000.0))
+  (define-fun sym506_1187 () Real
+    0.0)
+  (define-fun sym79_1598 () Real
+    1.0)
+  (define-fun sym6_197 () Real
+    0.0)
+  (define-fun sym216_942 () Real
+    0.0)
+  (define-fun sym410_1549 () Real
+    0.0)
+  (define-fun sym79_1099 () Real
+    1.0)
+  (define-fun sym511_1597 () Real
+    0.0)
+  (define-fun sym216_1128 () Real
+    (- 1.0))
+  (define-fun sym216_1099 () Real
+    (/ 86379199126053883949699751596777807807980422429001.0
+   178645873945347334269188494630515000000000000000000.0))
+  (define-fun sym79_1225 () Real
+    1.0)
+  (define-fun sym506_1159 () Real
+    0.0)
+  (define-fun sym6_942 () Real
+    0.0)
+  (define-fun sym174_1529 () Real
+    0.0)
+  (define-fun sym216_1252 () Real
+    0.0)
+  (define-fun sym79_1477 () Real
+    1.0)
+  (define-fun sym6_779 () Real
+    0.0)
+  (define-fun sym347_1099 () Real
+    0.0)
+  (define-fun sym410_1251 () Real
+    0.0)
+  (define-fun sym506_1477 () Real
+    0.0)
+  (define-fun sym79_658 () Real
+    1.0)
+  (define-fun sym511_1491 () Real
+    0.0)
+  (define-fun sym415_1419 () Real
+    0.0)
+  (define-fun sym415_1268 () Real
+    0.0)
+  (define-fun sym306_1258 () Real
+    0.0)
+  (define-fun sym216_1507 () Real
+    0.0)
+  (define-fun sym506_227 () Real
+    0.0)
+  (define-fun sym6_1597 () Real
+    0.0)
+  (define-fun sym347_1163 () Real
+    0.0)
+  (define-fun sym6_38 () Real
+    0.0)
+  (define-fun sym410_1006 () Real
+    0.0)
+  (define-fun sym415_746 () Real
+    0.0)
+  (define-fun sym496_364 () Real
+    (- 1.0))
+  (define-fun sym174_261 () Real
+    0.0)
+  (define-fun sym496_565 () Real
+    1.0)
+  (define-fun sym216_189 () Real
+    (- (/ 1324573643376878773683038345966795929216382136317912406078053372263.0
+      2139509616478156686488683746161638856254619015730000000000000000000.0)))
+  (define-fun sym6_1568 () Real
+    0.0)
+  (define-fun sym6_1194 () Real
+    0.0)
+  (define-fun sym174_1555 () Real
+    0.0)
+  (define-fun sym415_716 () Real
+    0.0)
+  (define-fun sym415_1326 () Real
+    0.0)
+  (define-fun sym506_1544 () Real
+    0.0)
+  (define-fun sym79_460 () Real
+    1.0)
+  (define-fun sym410_1580 () Real
+    0.0)
+  (define-fun sym174_1574 () Real
+    0.0)
+  (define-fun sym306_1163 () Real
+    0.0)
+  (define-fun sym410_716 () Real
+    0.0)
+  (define-fun sym511_716 () Real
+    0.0)
+  (define-fun sym216_61 () Real
+    0.0)
+  (define-fun sym506_931 () Real
+    0.0)
+  (define-fun sym410_207 () Real
+    0.0)
+  (define-fun sym174_931 () Real
+    0.0)
+  (define-fun sym410_1187 () Real
+    0.0)
+  (define-fun sym410_362 () Real
+    0.0)
+  (define-fun sym415_1544 () Real
+    0.0)
+  (define-fun sym511_422 () Real
+    0.0)
+  (define-fun sym496_716 () Real
+    (- 1.0))
+  (define-fun sym216_1477 () Real
+    0.0)
+  (define-fun sym347_1235 () Real
+    (- 1.0))
+  (define-fun sym415_1275 () Real
+    0.0)
+  (define-fun sym506_1513 () Real
+    0.0)
+  (define-fun sym174_618 () Real
+    0.0)
+  (define-fun sym306_1235 () Real
+    0.0)
+  (define-fun sym79_652 () Real
+    (- 1.0))
+  (define-fun sym6_1544 () Real
+    0.0)
+  (define-fun sym174_1581 () Real
+    0.0)
+  (define-fun sym410_1235 () Real
+    0.0)
+  (define-fun sym511_1507 () Real
+    0.0)
+  (define-fun sym306_1310 () Real
+    0.0)
+  (define-fun sym347_1584 () Real
+    0.0)
+  (define-fun sym174_1590 () Real
+    0.0)
+  (define-fun sym506_1593 () Real
+    0.0)
+  (define-fun sym6_203 () Real
+    0.0)
+  (define-fun sym347_309 () Real
+    0.0)
+  (define-fun sym347_1279 () Real
+    (- 1.0))
+  (define-fun sym306_38 () Real
+    0.0)
+  (define-fun sym496_1510 () Real
+    0.0)
+  (define-fun sym79_1568 () Real
+    (- 1.0))
+  (define-fun sym496_234 () Real
+    0.0)
+  (define-fun sym306_1544 () Real
+    0.0)
+  (define-fun sym79_1326 () Real
+    (- 1.0))
+  (define-fun sym506_426 () Real
+    0.0)
+  (define-fun sym79_38 () Real
+    (- 1.0))
+  (define-fun sym511_1566 () Real
+    0.0)
+  (define-fun sym174_1258 () Real
+    0.0)
+  (define-fun sym506_347 () Real
+    0.0)
+  (define-fun sym511_1531 () Real
+    0.0)
+  (define-fun sym496_309 () Real
+    0.0)
+  (define-fun sym216_1168 () Real
+    1.0)
+  (define-fun sym496_745 () Real
+    0.0)
+  (define-fun sym79_923 () Real
+    1.0)
+  (define-fun sym506_1248 () Real
+    0.0)
+  (define-fun sym511_362 () Real
+    0.0)
+  (define-fun sym306_987 () Real
+    0.0)
+  (define-fun sym216_867 () Real
+    0.0)
+  (define-fun sym511_618 () Real
+    0.0)
+  (define-fun sym79_1574 () Real
+    1.0)
+  (define-fun sym506_867 () Real
+    0.0)
+  (define-fun sym79_1483 () Real
+    (- (/ 69170650672665693299531754004730776749321436983587.0
+      105628588867569100041671512130900800000000000000000.0)))
+  (define-fun sym511_1568 () Real
+    0.0)
+  (define-fun sym79_143 () Real
+    1.0)
+  (define-fun sym496_554 () Real
+    1.0)
+  (define-fun sym347_1549 () Real
+    (- 1.0))
+  (define-fun sym410_42 () Real
+    0.0)
+  (define-fun sym79_1216 () Real
+    1.0)
+  (define-fun sym410_867 () Real
+    0.0)
+  (define-fun sym79_1535 () Real
+    (- 1.0))
+  (define-fun sym216_1529 () Real
+    0.0)
+  (define-fun sym506_1279 () Real
+    0.0)
+  (define-fun sym174_1584 () Real
+    0.0)
+  (define-fun sym347_746 () Real
+    0.0)
+  (define-fun sym511_1477 () Real
+    0.0)
+  (define-fun sym496_645 () Real
+    0.0)
+  (define-fun sym410_99 () Real
+    0.0)
+  (define-fun sym306_1510 () Real
+    0.0)
+  (define-fun sym216_1258 () Real
+    0.0)
+  (define-fun sym511_1419 () Real
+    0.0)
+  (define-fun sym6_989 () Real
+    0.0)
+  (define-fun sym6_1223 () Real
+    0.0)
+  (define-fun sym6_1580 () Real
+    0.0)
+  (define-fun sym174_1163 () Real
+    0.0)
+  (define-fun sym496_1536 () Real
+    1.0)
+  (define-fun sym174_1507 () Real
+    0.0)
+  (define-fun sym306_1513 () Real
+    0.0)
+  (define-fun sym496_1590 () Real
+    (- (/ 16615976184767060946456936498811827.0
+      28343085120032710000000000000000000.0)))
+  (define-fun sym506_1213 () Real
+    0.0)
+  (define-fun sym511_163 () Real
+    0.0)
+  (define-fun sym496_1268 () Real
+    0.0)
+  (define-fun sym496_1535 () Real
+    1.0)
+  (define-fun sym496_1568 () Real
+    (- 1.0))
+  (define-fun sym506_1275 () Real
+    0.0)
+  (define-fun sym496_362 () Real
+    0.0)
+  (define-fun sym216_716 () Real
+    0.0)
+  (define-fun sym6_1555 () Real
+    0.0)
+  (define-fun sym79_1268 () Real
+    1.0)
+  (define-fun sym347_227 () Real
+    0.0)
+  (define-fun sym6_1593 () Real
+    (- (/ 10641138621509659957811853092814791.0
+      15089693350737658000000000000000000.0)))
+  (define-fun sym496_1555 () Real
+    1.0)
+  (define-fun sym306_1223 () Real
+    0.0)
+  (define-fun sym415_38 () Real
+    0.0)
+  (define-fun sym511_1268 () Real
+    0.0)
+  (define-fun sym347_125 () Real
+    0.0)
+  (define-fun sym415_547 () Real
+    0.0)
+  (define-fun sym79_1597 () Real
+    (/ 12014582056006517603931628080737156940846642975791.0
+   17809500482047511738505132998646400000000000000000.0))
+  (define-fun sym347_38 () Real
+    0.0)
+  (define-fun sym6_1590 () Real
+    0.0)
+  (define-fun sym347_1544 () Real
+    (- 1.0))
+  (define-fun sym506_1268 () Real
+    0.0)
+  (define-fun sym216_1536 () Real
+    (- 1.0))
+  (define-fun sym415_1514 () Real
+    0.0)
+  (define-fun sym496_629 () Real
+    1.0)
+  (define-fun sym306_1477 () Real
+    0.0)
+  (define-fun sym410_170 () Real
+    0.0)
+  (define-fun sym511_1574 () Real
+    0.0)
+  (define-fun sym410_1576 () Real
+    0.0)
+  (define-fun sym511_1099 () Real
+    0.0)
+  (define-fun sym415_1252 () Real
+    0.0)
+  (define-fun sym415_901 () Real
+    0.0)
+  (define-fun sym79_1584 () Real
+    (- 1.0))
+  (define-fun sym174_1275 () Real
+    0.0)
+  (define-fun sym506_1597 () Real
+    0.0)
+  (define-fun sym216_1216 () Real
+    0.0)
+  (define-fun sym511_1555 () Real
+    0.0)
+  (define-fun sym496_38 () Real
+    0.0)
+  (define-fun sym496_1593 () Real
+    1.0)
+  (define-fun sym216_1225 () Real
+    (- 1.0))
+  (define-fun sym174_1544 () Real
+    0.0)
+  (define-fun sym347_1535 () Real
+    (- (/ 17565587888278278291824964614339.0 39246091099039985000000000000000.0)))
+  (define-fun sym347_1510 () Real
+    (/ 692543046737689999911677353083911.0 714757539481031600000000000000000.0))
+  (define-fun sym410_1536 () Real
+    0.0)
+  (define-fun sym410_779 () Real
+    0.0)
+  (define-fun sym347_1307 () Real
+    0.0)
+  (define-fun sym511_1279 () Real
+    0.0)
+  (define-fun sym216_1235 () Real
+    (- 1.0))
+  (define-fun sym506_1581 () Real
+    0.0)
+  (define-fun sym410_358 () Real
+    0.0)
+  (define-fun sym415_942 () Real
+    0.0)
+  (define-fun sym410_1248 () Real
+    0.0)
+  (define-fun sym79_1310 () Real
+    1.0)
+  (define-fun sym410_1491 () Real
+    0.0)
+  (define-fun sym306_1555 () Real
+    0.0)
+  (define-fun sym506_1555 () Real
+    0.0)
+  (define-fun sym306_1514 () Real
+    0.0)
+  (define-fun sym6_565 () Real
+    0.0)
+  (define-fun sym174_42 () Real
+    0.0)
+  (define-fun sym496_1159 () Real
+    1.0)
+  (define-fun sym506_523 () Real
+    0.0)
+  (define-fun sym410_1279 () Real
+    0.0)
+  (define-fun sym410_1529 () Real
+    0.0)
+  (define-fun sym306_1580 () Real
+    0.0)
+  (define-fun sym216_1307 () Real
+    0.0)
+  (define-fun sym410_547 () Real
+    0.0)
+  (define-fun sym496_99 () Real
+    1.0)
+  (define-fun sym6_1574 () Real
+    0.0)
+  (define-fun sym415_629 () Real
+    0.0)
+  (define-fun sym174_1279 () Real
+    0.0)
+  (define-fun sym347_1533 () Real
+    0.0)
+  (define-fun sym506_1235 () Real
+    0.0)
+  (define-fun sym511_1227 () Real
+    0.0)
+  (define-fun sym506_234 () Real
+    0.0)
+  (define-fun sym6_1252 () Real
+    0.0)
+  (define-fun sym410_38 () Real
+    0.0)
+  (define-fun sym6_1535 () Real
+    0.0)
+  (define-fun sym496_1544 () Real
+    0.0)
+  (define-fun sym347_1593 () Real
+    0.0)
+  (define-fun sym415_1593 () Real
+    0.0)
+  (define-fun sym79_1419 () Real
+    1.0)
+  (define-fun sym306_509 () Real
+    0.0)
+  (define-fun sym79_1581 () Real
+    1.0)
+  (define-fun sym79_1593 () Real
+    1.0)
+  (define-fun sym216_1157 () Real
+    0.0)
+  (define-fun sym306_325 () Real
+    0.0)
+  (define-fun sym347_1574 () Real
+    (- 1.0))
+  (define-fun sym174_366 () Real
+    0.0)
+  (define-fun sym79_779 () Real
+    (- 1.0))
+  (define-fun sym216_1597 () Real
+    0.0)
+  (define-fun sym6_234 () Real
+    0.0)
+  (define-fun sym174_938 () Real
+    0.0)
+  (define-fun sym496_1581 () Real
+    (- 1.0))
+  (define-fun sym174_170 () Real
+    0.0)
+  (define-fun sym506_1533 () Real
+    0.0)
+  (define-fun sym415_283 () Real
+    0.0)
+  (define-fun sym511_1513 () Real
+    0.0)
+  (define-fun sym347_745 () Real
+    0.0)
+  (define-fun sym506_1580 () Real
+    0.0)
+  (define-fun sym6_1514 () Real
+    0.0)
+  (define-fun sym216_1518 () Real
+    0.0)
+  (define-fun sym496_1157 () Real
+    (- 1.0))
+  (define-fun sym496_1246 () Real
+    1.0)
+  (define-fun sym306_1593 () Real
+    0.0)
+  (define-fun sym511_1529 () Real
+    0.0)
+  (define-fun sym216_1271 () Real
+    0.0)
+  (define-fun sym174_1216 () Real
+    0.0)
+  (define-fun sym410_1544 () Real
+    0.0)
+  (define-fun sym511_1533 () Real
+    0.0)
+  (define-fun sym174_234 () Real
+    0.0)
+  (define-fun sym347_283 () Real
+    0.0)
+  (define-fun sym347_1159 () Real
+    0.0)
+  (define-fun sym496_1235 () Real
+    1.0)
+  (define-fun sym410_1216 () Real
+    (- 1.0))
+  (define-fun sym511_1252 () Real
+    0.0)
+  (define-fun sym6_125 () Real
+    0.0)
+  (define-fun sym79_1533 () Real
+    (/ 1867959827828204463175455985035965628874873064345364225383384785729.0
+   2257497461960340470027182241626769669508047524129000000000000000000.0))
+  (define-fun sym174_1252 () Real
+    0.0)
+  (define-fun sym216_1580 () Real
+    0.0)
+  (define-fun sym410_1597 () Real
+    0.0)
+  (define-fun sym415_1258 () Real
+    0.0)
+  (define-fun sym6_1159 () Real
+    0.0)
+  (define-fun sym174_38 () Real
+    0.0)
+  (define-fun sym347_1275 () Real
+    0.0)
+  (define-fun sym415_867 () Real
+    0.0)
+  (define-fun sym415_1533 () Real
+    0.0)
+  (define-fun sym79_1187 () Real
+    (- 1.0))
+  (define-fun sym6_1235 () Real
+    0.0)
+  (define-fun sym410_942 () Real
+    0.0)
+  (define-fun sym415_1549 () Real
+    0.0)
+  (define-fun sym496_1213 () Real
+    0.0)
+  (define-fun sym511_1235 () Real
+    0.0)
+  (define-fun sym79_227 () Real
+    1.0)
+  (define-fun sym79_1513 () Real
+    (- 1.0))
+  (define-fun sym6_716 () Real
+    0.0)
+  (define-fun sym415_1099 () Real
+    0.0)
+  (define-fun sym511_1536 () Real
+    0.0)
+  (define-fun sym174_1510 () Real
+    0.0)
+  (define-fun sym347_1525 () Real
+    0.0)
+  (define-fun sym410_143 () Real
+    0.0)
+  (define-fun sym6_1251 () Real
+    0.0)
+  (define-fun sym174_1536 () Real
+    0.0)
+  (define-fun sym306_1483 () Real
+    0.0)
+  (define-fun sym506_125 () Real
+    0.0)
+  (define-fun sym506_686 () Real
+    0.0)
+  (define-fun sym347_1514 () Real
+    0.0)
+  (define-fun sym216_1159 () Real
+    0.0)
+  (define-fun sym347_1597 () Real
+    (- 1.0))
+  (define-fun sym511_1590 () Real
+    0.0)
+  (define-fun sym347_1268 () Real
+    0.0)
+  (define-fun sym410_463 () Real
+    0.0)
+  (define-fun sym79_1065 () Real
+    1.0)
+  (define-fun sym306_1590 () Real
+    0.0)
+  (define-fun sym6_42 () Real
+    0.0)
+  (define-fun sym6_133 () Real
+    0.0)
+  (define-fun sym306_667 () Real
+    0.0)
+  (define-fun sym174_1568 () Real
+    0.0)
+  (define-fun sym410_1310 () Real
+    0.0)
+  (define-fun sym347_1568 () Real
+    (- 1.0))
+  (define-fun sym216_1555 () Real
+    (- 1.0))
+  (define-fun sym6_1262 () Real
+    0.0)
+  (define-fun sym216_227 () Real
+    0.0)
+  (define-fun sym415_309 () Real
+    0.0)
+  (define-fun sym511_1198 () Real
+    0.0)
+  (define-fun sym511_1580 () Real
+    0.0)
+  (define-fun sym496_827 () Real
+    1.0)
+  (define-fun sym511_1159 () Real
+    0.0)
+  (define-fun sym174_1533 () Real
+    0.0)
+  (define-fun sym415_523 () Real
+    0.0)
+  (define-fun sym506_38 () Real
+    0.0)
+  (define-fun sym306_1216 () Real
+    0.0)
+  (define-fun sym511_1535 () Real
+    0.0)
+  (define-fun sym306_1536 () Real
+    0.0)
+  (define-fun sym174_203 () Real
+    0.0)
+  (define-fun sym347_682 () Real
+    0.0)
+  (define-fun sym415_125 () Real
+    0.0)
+  (define-fun sym415_1477 () Real
+    0.0)
+  (define-fun sym511_1483 () Real
+    0.0)
+  (define-fun sym174_347 () Real
+    0.0)
+  (define-fun sym306_1275 () Real
+    0.0)
+  (define-fun sym506_1415 () Real
+    0.0)
+  (define-fun sym216_1549 () Real
+    (- (/ 16597877534626529406051554111546213.0
+      57051932624615220000000000000000000.0)))
+  (define-fun sym496_1574 () Real
+    1.0)
+  (define-fun sym79_1555 () Real
+    1.0)
+  (define-fun sym6_746 () Real
+    0.0)
+  (define-fun sym306_445 () Real
+    0.0)
+  (define-fun sym511_972 () Real
+    0.0)
+  (define-fun sym306_938 () Real
+    0.0)
+  (define-fun sym347_987 () Real
+    0.0)
+  (define-fun sym216_298 () Real
+    0.0)
+  (define-fun sym415_358 () Real
+    0.0)
+  (define-fun sym6_1584 () Real
+    0.0)
+  (define-fun sym79_1163 () Real
+    (- 1.0))
+  (define-fun sym6_189 () Real
+    0.0)
+  (define-fun sym410_1513 () Real
+    0.0)
+  (define-fun sym6_347 () Real
+    0.0)
+  (define-fun sym6_1275 () Real
+    0.0)
+  (define-fun sym415_1580 () Real
+    0.0)
+  (define-fun sym511_1584 () Real
+    0.0)
+  (define-fun sym496_1529 () Real
+    (- (/ 11006447311226152130429309268627297560981680082088863043846668048213949417691521397198929325798666551146512250221267857614873521797873031585193759911296163703116119141417640003997.0
+      21963744312057880546991067773314963610601420495130156019157862368703650493293944019877361355239573418088696278188740671363861017214762346031192744022199862032000000000000000000000.0)))
+  (define-fun sym496_1491 () Real
+    (/ 64955418246325395617767775259971520323092026148150667985577204849304638791395892386879124789630708577317174029050929465364834527139171067738104881.0
+   114122566487807956400390343322656824850175300435004207647756934028893587833300638015304276752298285966208423082957687473169814400000000000000000000.0))
+  (define-fun sym79_163 () Real
+    (- (/ 77786071512140727724802907114249.0 3979236800127877600000000000000000.0)))
+  (define-fun sym415_1536 () Real
+    0.0)
+  (define-fun sym511_1593 () Real
+    0.0)
+  (define-fun sym347_108 () Real
+    (- 1.0))
+  (define-fun sym306_362 () Real
+    0.0)
+  (define-fun sym347_1555 () Real
+    (- 1.0))
+  (define-fun sym496_426 () Real
+    (/ 555750573555075991264733520891778585242198728135639204336406834940534246485262238707201843816409659.0
+   1044729457936227459221220442156286562967573112517112908051773105830452581602152500000000000000000000.0))
+  (define-fun sym306_618 () Real
+    0.0)
+  (define-fun sym410_1535 () Real
+    0.0)
+  (define-fun sym79_901 () Real
+    (- 1.0))
+  (define-fun sym79_1510 () Real
+    (- 1.0))
+  (define-fun sym216_1223 () Real
+    0.0)
+  (define-fun sym496_1584 () Real
+    0.0)
+  (define-fun sym79_1590 () Real
+    1.0)
+  (define-fun sym511_942 () Real
+    0.0)
+  (define-fun sym415_203 () Real
+    0.0)
+  (define-fun sym216_267 () Real
+    0.0)
+  (define-fun sym79_99 () Real
+    1.0)
+  (define-fun sym347_1491 () Real
+    0.0)
+  (define-fun sym347_1529 () Real
+    0.0)
+  (define-fun sym415_1491 () Real
+    0.0)
+  (define-fun sym306_46 () Real
+    0.0)
+  (define-fun sym216_1568 () Real
+    (- 1.0))
+  (define-fun sym79_1580 () Real
+    1.0)
+  (define-fun sym174_885 () Real
+    0.0)
+  (define-fun sym216_1514 () Real
+    0.0)
+  (define-fun sym415_1555 () Real
+    0.0)
+  (define-fun sym79_686 () Real
+    (- (/ 35360404938945083030720814047239420808065157056418241729258406267339590306405439347.0
+      105324401843789249869298702723442207603431447462503038774749548000000000000000000000.0)))
+  (define-fun sym216_1581 () Real
+    0.0)
+  (define-fun sym306_750 () Real
+    0.0)
+  (define-fun sym347_445 () Real
+    0.0)
+  (define-fun sym410_1593 () Real
+    (- (/ 21340098135952995090506204516373399.0
+      22844922108889280000000000000000000.0)))
+  (define-fun sym347_942 () Real
+    0.0)
+  (define-fun sym410_1514 () Real
+    0.0)
+  (define-fun sym410_1275 () Real
+    0.0)
+  (define-fun sym306_358 () Real
+    0.0)
+  (define-fun sym216_1544 () Real
+    0.0)
+  (define-fun sym6_1268 () Real
+    0.0)
+  (define-fun sym506_547 () Real
+    0.0)
+  (define-fun sym174_1491 () Real
+    0.0)
+  (define-fun sym347_1513 () Real
+    0.0)
+  (define-fun sym415_163 () Real
+    0.0)
+  (define-fun sym496_1518 () Real
+    (- 1.0))
+  (define-fun sym496_658 () Real
+    0.0)
+  (define-fun sym410_967 () Real
+    0.0)
+  (define-fun sym410_234 () Real
+    0.0)
+  (define-fun sym306_1574 () Real
+    0.0)
+  (define-fun sym306_302 () Real
+    0.0)
+  (define-fun sym216_1275 () Real
+    0.0)
+  (define-fun sym506_1574 () Real
+    0.0)
+  (define-fun sym511_1581 () Real
+    0.0)
+  (define-fun sym6_839 () Real
+    0.0)
+  (define-fun sym174_942 () Real
+    0.0)
+  (define-fun sym79_1252 () Real
+    1.0)
+  (define-fun sym347_1271 () Real
+    0.0)
+  (define-fun sym347_1581 () Real
+    0.0)
+  (define-fun sym410_163 () Real
+    0.0)
+  (define-fun sym306_716 () Real
+    0.0)
+  (define-fun sym496_125 () Real
+    1.0)
+  (define-fun sym496_547 () Real
+    0.0)
+  (define-fun sym410_1581 () Real
+    0.0)
+  (define-fun sym216_745 () Real
+    0.0)
+  (define-fun sym496_1223 () Real
+    1.0)
+  (define-fun sym347_1258 () Real
+    0.0)
+  (define-fun sym306_1187 () Real
+    0.0)
+  (define-fun sym511_742 () Real
+    0.0)
+  (define-fun sym496_1483 () Real
+    0.0)
+  (define-fun sym306_1491 () Real
+    0.0)
+  (define-fun sym496_1549 () Real
+    (- (/ 8781280568916446740635648585216175169805679415457011340350806065128847538210044100198958442304008574030062911264926151813485605834262819453898049.0
+      114122566487807956400390343322656824850175300435004207647756934028893587833300638015304276752298285966208423082957687473169814400000000000000000000.0)))
+  (define-fun sym347_779 () Real
+    0.0)
+  (define-fun sym347_1216 () Real
+    0.0)
+  (define-fun sym306_1252 () Real
+    0.0)
+  (define-fun sym506_1216 () Real
+    0.0)
+  (define-fun sym506_716 () Real
+    0.0)
+  (define-fun sym506_1536 () Real
+    0.0)
+  (define-fun sym79_1549 () Real
+    1.0)
+  (define-fun sym511_1518 () Real
+    0.0)
+  (define-fun sym174_1235 () Real
+    0.0)
+  (define-fun sym306_1268 () Real
+    0.0)
+  (define-fun sym216_885 () Real
+    0.0)
+  (define-fun sym347_547 () Real
+    0.0)
+  (define-fun sym6_652 () Real
+    0.0)
+  (define-fun sym410_1584 () Real
+    0.0)
+  (define-fun sym496_652 () Real
+    (- (/ 5204100575523082081395377516676507.0 6657438005383615000000000000000000.0)))
+  (define-fun sym6_667 () Real
+    0.0)
+  (define-fun sym496_1525 () Real
+    (- (/ 1008203662821483353075712817674474559288312103201913889648116005303769563595016991161909456046094639.0
+      1671567132697963934753952707450058500748116980027380652882836969328724130563444000000000000000000000.0)))
+  (define-fun sym6_867 () Real
+    0.0)
+  (define-fun sym79_1157 () Real
+    (- 1.0))
+  (define-fun sym410_227 () Real
+    0.0)
+  (define-fun sym410_1167 () Real
+    0.0)
+  (define-fun sym216_1574 () Real
+    0.0)
+  (define-fun sym6_523 () Real
+    0.0)
+  (define-fun sym347_1580 () Real
+    (- 1.0))
+  (define-fun sym415_1597 () Real
+    0.0)
+  (define-fun sym511_682 () Real
+    0.0)
+  (define-fun sym506_1590 () Real
+    0.0)
+  (define-fun sym506_1529 () Real
+    0.0)
+  (define-fun sym216_1584 () Real
+    0.0)
+  (define-fun sym511_254 () Real
+    0.0)
+  (define-fun sym216_554 () Real
+    0.0)
+  (define-fun sym496_1533 () Real
+    (/ 419308192406148376505558286447451.0 12661528587269630000000000000000000.0))
+  (define-fun sym496_1598 () Real
+    1.0)
+  (define-fun sym174_1337 () Real
+    0.0)
+  (define-fun sym216_1262 () Real
+    0.0)
+  (define-fun sym79_1536 () Real
+    1.0)
+  (define-fun sym306_622 () Real
+    0.0)
+  (define-fun sym415_1504 () Real
+    0.0)
+  (define-fun sym506_1507 () Real
+    0.0)
+  (define-fun sym511_1525 () Real
+    0.0)
+  (define-fun sym306_1533 () Real
+    0.0)
+  (define-fun sym506_652 () Real
+    0.0)
+  (define-fun sym174_1251 () Real
+    0.0)
+  (define-fun sym306_652 () Real
+    0.0)
+  (define-fun sym511_396 () Real
+    0.0)
+  (define-fun sym174_125 () Real
+    0.0)
+  (define-fun sym216_1533 () Real
+    0.0)
+  (define-fun sym410_1590 () Real
+    0.0)
+  (define-fun sym174_1518 () Real
+    0.0)
+  (define-fun sym6_1423 () Real
+    0.0)
+  (define-fun sym174_1513 () Real
+    0.0)
+  (define-fun sym410_1555 () Real
+    0.0)
+  (define-fun sym174_1549 () Real
+    0.0)
+  (define-fun sym79_1235 () Real
+    1.0)
+  (define-fun sym511_1598 () Real
+    0.0)
+  (define-fun sym216_1598 () Real
+    0.0)
+  (define-fun sym216_1491 () Real
+    0.0)
+  (define-fun sym511_366 () Real
+    0.0)
+  (define-fun sym506_1538 () Real
+    0.0)
+  (define-fun sym506_1598 () Real
+    0.0)
+  (define-fun sym174_163 () Real
+    0.0)
+  (define-fun sym415_1513 () Real
+    0.0)
+  (define-fun sym174_1597 () Real
+    0.0)
+  (define-fun sym410_1258 () Real
+    0.0)
+  (define-fun sym347_667 () Real
+    0.0)
+  (define-fun sym6_1536 () Real
+    0.0)
+  (define-fun sym306_1598 () Real
+    0.0)
+  (define-fun sym216_1268 () Real
+    0.0)
+  (define-fun sym415_1285 () Real
+    0.0)
+  (define-fun sym415_1216 () Real
+    0.0)
+  (define-fun sym216_1198 () Real
+    0.0)
+  (define-fun sym347_42 () Real
+    0.0)
+  (define-fun sym6_1271 () Real
+    0.0)
+  (define-fun sym79_618 () Real
+    1.0)
+  (define-fun sym216_1510 () Real
+    0.0)
+  (define-fun sym306_1002 () Real
+    0.0)
+  (define-fun sym496_1006 () Real
+    0.0)
+  (define-fun sym415_645 () Real
+    0.0)
+  (define-fun sym174_1310 () Real
+    0.0)
+  (define-fun sym496_1580 () Real
+    (- (/ 15549399047250952050650097925331924099259908276833308670879678384506027554449695702411405836401185818857973248241735744262545392584996133488559627187677553929330095622537774786763.0
+      43927488624115761093982135546629927221202840990260312038315724737407300986587888039754722710479146836177392556377481342727722034429524692062385488044399724064000000000000000000000.0)))
+)
